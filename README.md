@@ -7,7 +7,7 @@ This Repository contains my homework/project solutions for UCLA Spring 2023 CS32
 | Project | Grade | Brief Description |
 | :---     |    :---:      |          :---: |
 | Project 1 |   80/100   |  Organized several header and source files in CS31 minigame to eliminate circular dependencies.   |
-| Project 2 |   95/100   |  Created sequence class with linked list as the underlying data structure  |
+| Project 2 |   95/100   |  Created sequence class with linked list as the underlying data structure from scratch |
 | Project 3 |   92/100   |  Constructed Mancala game and Implemented Game AI using Min-Max Algorithm  |
 | Project 4 |   100/100   |  Built Hash Table and Function to create anagram dictionary and function to output all anagrams of a word input |
 
