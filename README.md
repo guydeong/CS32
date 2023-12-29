@@ -1,7 +1,7 @@
 # CS32 - UCLA, Spring Quarter 2023
 This Repository contains my homework/project solutions for UCLA Spring 2023 CS32 (Object-Oriented Programming, Data Structures, and Algorithms) with Professor David A. Smallberg. In this course, I learned how to use a variety of data structures, including linked lists, stacks and queues, trees, hash tables, heaps, and graphs. Furthermore, the course explored more computer science topics such as inheritance and polymorphism, recursion, templates, STL, and Sorting algorithms. This course consisted of 5 Homework Assignments and 4 Project Assignments, with Project 3 being my favorite project.
 
-<strong>Disclaimer: </strong> This repository is only meant to showcase my work for professional purposes. If you are a student at UCLA taking CS32, view this repository at your own risk. 
+<strong>Disclaimer: </strong> This repository is only meant to showcase my work for professional purposes. If you are a student at UCLA taking CS32, do not copy or re-use any of my code and view this repository at your own risk. 
 
 ## Project Scores
 | Project | Grade | Brief Description |
