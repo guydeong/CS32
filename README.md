@@ -10,3 +10,10 @@ This Repository contains my homework/project solutions for CS32 (Object-Oritente
 | Project 4 |   100/100   |     |
 
 ## Homework Scores
+| Project | Grade | Brief Description |
+| :---     |    :---:      |          ---: |
+| Homework 1 |   93/100   |  Created a unique data type known as a Sequence.   |
+| Homework 2 |   100/100   |  Implemented function to check whether or not a path from one coordinate on a path to another coordinate exists using the stack and queue data structure.   |
+| Homework 3 |   100/100   |     |
+| Homework 4 |   95/100   |     |
+| Homework 5 |   100/100   |     |
