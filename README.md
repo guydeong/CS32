@@ -13,7 +13,7 @@ This Repository contains my homework/project solutions for CS32 (Object-Oritente
 | Project | Grade | Brief Description |
 | :---:     |    :---:      |          :---: |
 | Homework 1 |   93/100   |Created a unique data type known as a Sequence.|
-| Homework 2 |   100/100   |   Implemented function to check whether or not a path from one coordinate on a path to another coordinate exists using the stack and queue data structure.   |
-| Homework 3 |   100/100   |     |
-| Homework 4 |   95/100   |     |
-| Homework 5 |   100/100   |     |
+| Homework 2 |   100/100   |   Implemented function to check whether or not a path from one coordinate to another coordinate exists in a maze using the stack and queue data structure.   |
+| Homework 3 |   100/100   |  Applied recursion to solve several array problems   |
+| Homework 4 |   95/100   |  Corrected STL and Template error in provided file and Analyzed Big-O of several functions   |
+| Homework 5 |   100/100   |  Final Preparation HW   |
