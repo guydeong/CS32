@@ -4,8 +4,8 @@ This Repository contains my homework/project solutions for UCLA Spring 2023 CS32
 <strong>Disclaimer: </strong> This repository is only meant to showcase my work for professional purposes. If you are a student at UCLA taking CS32, do not copy or re-use any of my code and view this repository at your own risk. 
 
 ## Project Scores
-| Project | Grade | Brief Description |
-| :---     |    :---:      |          :---: |
+| Project   | Grade | Brief Description |
+| :---:      |    :---:      |          :---: |
 | Project 1 |   80/100   |  Organized several header and source files in CS31 minigame to eliminate circular dependencies.   |
 | Project 2 |   95/100   |  Created sequence class with linked list as the underlying data structure from scratch |
 | Project 3 |   92/100   |  Constructed Mancala game and Implemented Game AI using Min-Max Algorithm  |
