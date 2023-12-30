@@ -12,7 +12,7 @@ This Repository contains my homework/project solutions for UCLA Spring 2023 CS32
 | Project 4 |   100/100   |  Built Hash Table and Function to create anagram dictionary and function to output all anagrams of a word input |
 
 ## Homework Scores
-| Project | Grade | Brief Description |
+| Project    | Grade | Brief Description |
 | :---:      |    :---:      |          :---:                                        |
 | Homework 1 |   93/100   | Produced several functions on Project 1 Sequence data structure. |
 | Homework 2 |   100/100   |   Implemented function to check whether or not a path from one coordinate to another coordinate exists in a maze using the stack and queue data structure.   |
